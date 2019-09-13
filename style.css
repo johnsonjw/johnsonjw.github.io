@@ -32,8 +32,8 @@ p {
 font-size: 2rem;
 }
 
-.hero a {
-	color: #00FFAA;
-	font-size: 1.25em;
+.Yuck a {
+	color: red;
+	font-size: 250px;
 	text-decoration: none;
 }
