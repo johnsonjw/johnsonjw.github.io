@@ -9,13 +9,14 @@ body {
 h1 {
 	font-size: 32px;
   font-family: 'Modak', cursive;
+	color:#5D8AA8;
 }
 
 h2 {
 	padding: 250px 0;
 	margin: 30px;
 	font-size: 56px;
-	color: #FF7E00
+	color: #FF7E00;
 }
 p {
 font-size: 20px;
@@ -28,4 +29,7 @@ font-size: 20px;
 	color: #FF0000;
 	font-size: 250px;
 	text-decoration: none;
+}
+.col-md-6 {
+  margin: 0 0 30px;
 }
