@@ -2,7 +2,6 @@ body {
 	height: 100%;
 	margin: 0;
 	text-align: center;
-	width: 100%;
 }
 
 h1 {
@@ -38,4 +37,3 @@ font-size: 2rem;
 	font-size: 1.25em;
 	text-decoration: none;
 }
-
